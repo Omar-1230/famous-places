@@ -1,0 +1,3 @@
+* Aruba
+* Cancun
+* Paris
